@@ -7,11 +7,11 @@
 Designed to provide convenience for beginners to code, this application makes it easier for beginners to type characters
 that are hard to find on keyboards.
 
-### Requirements
+### Usage
 
 ---
 
-install required libraries
+install required libraries and run
 
  ```
  pip install -r requirements.txt
